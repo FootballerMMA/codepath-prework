@@ -41,7 +41,7 @@ The following features are also implemented:
 
 ## New App Idea
 
-My idea is for an app that combines **Spotify’s** personal music recommendations and **Musi’s** openness to all kinds of music, with an interactive comment system.
+My idea is for an app that combines various popular features into a new streaming service. It would have a personalized music recommendation system with openness to all kinds of music as well as having a comment system for users to interact with one another.
    
 ## Notes
 
